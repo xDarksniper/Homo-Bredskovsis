@@ -112,4 +112,4 @@ while run:
 
 
 
-print("Dila stiv\n' svingende skunk malene munk  ","Dila\n' skidadel skidudel din pik er nu en nudel ren  ","Dila stor  ","Dila flot  ","Dila skæv, i din mor")
+print("Dilkkka stiv\n' svingende skunk malene munk  ","Dila\n' skidadel skidudel din pik er nu en nudel ren  ","Dila stor  ","Dila flot  ","Dila skæv, i din mor")
