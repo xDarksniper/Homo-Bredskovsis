@@ -4,7 +4,7 @@ import colorsys
 
 pygame.init()
 
-white = (255, 123, 255)
+white = (255, 255, 255)
 black = (0, 0, 0)
 hue = 0
 
